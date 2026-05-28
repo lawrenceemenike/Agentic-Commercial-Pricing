@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: governance-verify
+        name: Verify AGT Policy
+        entry: governance-verify
+        language: system
+        files: ^governance/policy\.yaml$

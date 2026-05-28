@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain
+langchain-community
+langchain-ollama
+xgboost
+pandas
+plotly
+numpy
+agent-governance-toolkit[full]
